@@ -33,7 +33,7 @@
 				%>
 
 				<div class="card mt-3" >
-					<img class="card-img-top m-4 mx-auto" style="max-width:100px;" src="img/notepad.png" alt="Card image cap">
+					<img class="card-img-top m-4 mx-auto" style="max-width:100px;" src="img/noteTaker.png" alt="Card image cap">
 					<div class="card-body px-5">
 						<h5 class="card-title"><%= note.getTitle() %></h5>
 						<p class="card-text">

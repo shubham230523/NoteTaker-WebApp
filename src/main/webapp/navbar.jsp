@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark purple">
-  <a class="navbar-brand" href="index.jsp">Note Taker</a>
+  <a class="navbar-brand mr-auto" href="index.jsp"><img src="img/noteTaker.png" height = "40" width  = "41"></a>
+  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
