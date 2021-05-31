@@ -19,11 +19,11 @@ nb-configuration.xml
 # Eclipse
 .classpath
 .project
-.settings/
+.settings
 
 # Maven
 log/
-target/
+target
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
